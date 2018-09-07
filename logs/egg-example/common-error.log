@@ -1,0 +1,8 @@
+2018-09-07 16:26:07,878 ERROR 20464 [-/127.0.0.1/-/1122ms GET /news] nodejs.ReferenceError: newsList is not defined
+    at NewsService.list (/Users/soyal/Desktop/myProjects/egg-example/app/service/news.js:25:5)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 20464
+hostname: soyaldeMacBook-Pro.local
+

@@ -1,0 +1,260 @@
+{
+  "keys": "/Users/soyal/Desktop/myProjects/egg-example/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/soyal/Desktop/myProjects/egg-example/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/soyal/Desktop/myProjects/egg-example/config/config.default.js"
+    },
+    "root": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/soyal/Desktop/myProjects/egg-example/config/config.default.js",
+    "serverUrl": "/Users/soyal/Desktop/myProjects/egg-example/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "moment": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/soyal/Desktop/myProjects/egg-example/node_modules/egg/config/config.default.js"
+}
